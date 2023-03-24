@@ -2,7 +2,7 @@
 
 `I love Open Source Technology` &#10084;&#65039;
 
-
+ ![](https://komarev.com/ghpvc/?username=asingh403)
  <table>
   <tr>
     <td style="width:0"></td>
@@ -30,4 +30,4 @@
 </table>
 
 
- ![](https://komarev.com/ghpvc/?username=asingh403)
+
