@@ -58,7 +58,7 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 
 - LinkedIn: [Ashutosh Singh](https://www.linkedin.com/in/anurag-singh/)
 - Twitter: [@asingh403](https://twitter.com/asingh403)
-- Email: [singh.ashutosh.2008@gmail.com]
+- Email: [asingh.it@hotmail.com]
 
 I'm always interested in collaborating on automation projects or discussing testing strategies. Feel free to connect with me through any of the mentioned channels. Let's automate and ensure the quality of software together!
 
