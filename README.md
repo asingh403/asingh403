@@ -8,10 +8,6 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 - 💻 I have experience with test automation frameworks such as Selenium WebDriver, Cypress, and RestAssured API Testing.
 - ⚡ Fun fact: I enjoy solving puzzles and brain teasers in my free time!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asingh403&label=Profile%20views&color=0e75b6&style=flat" alt="asingh403" /> </p>
-
-- Email **asingh.it@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/as_tech2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="as_tech2" height="30" width="40" /></a>
@@ -29,32 +25,13 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asingh403&" alt="asingh403" /></p>
 
-
- <table>
-  <tr>
-    <td style="width:0"></td>
-      <h3>My Stats:</h3>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asingh403&theme=github" style="width:110%">
-    </td style="width:0"></td>
-  </tr>
- </table>
-
-<!-- <table> -->
-<!--  <tr>
-<!--     <td style="width:75%">
-      <h3></h3>
-     <img src="https://github-readme-stats.vercel.app/api?username=asingh403" style="width:100%">
-    </td> -->
-<!--     <td style="width:75%">
-      <h3></h3>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asingh403&theme=github&utcOffset=8" style="width:110%">
-    </td>
-    <td style="width:50%">
-      <h3></h3>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asingh403&theme=github" style="width:135%">
-    </td> -->
-  </tr>
-<!-- </table> -->
+<table style="border-collapse: collapse; width: 90%; border: none;">
+      <h3>Developer's Dashboard:</h3>
+<!--   <tr> -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asingh403&theme=github" style="width:150%">
+<!--     </td> -->
+<!--   </tr> -->
+</table>
 
 ## Tech Stack
 - Selenium WebDriver
