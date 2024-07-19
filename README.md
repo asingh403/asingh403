@@ -4,9 +4,7 @@
 I'm an automation tester with a passion for ensuring the quality and reliability of software applications. I enjoy automating repetitive tasks, designing efficient test frameworks, and working closely with development teams to deliver high-quality products. Here are a few highlights about me:
 
 - 🔭 I’m currently working on developing automated test suites using Selenium and RestAssured for a web application and APIs.
-- 🌱 I'm constantly learning and keeping up with the latest trends and tools in test automation.
-- 💻 I have experience with test automation frameworks such as Selenium WebDriver, Cypress, and RestAssured API Testing.
-- ⚡ Fun fact: I enjoy solving puzzles and brain teasers in my free time!
+- 💻 I have experience with test automation frameworks such as Selenium WebDriver, and RestAssured API Testing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +15,7 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 ----------
 ### 📊 GitHub Stats & 🌱 Top Languages:
@@ -44,7 +42,6 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 
 ## Tech Stack
 - Selenium WebDriver
-- Cypress
 - RestAssured
 - Postman
 - Java
@@ -56,9 +53,6 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 - [Web UI Test Automation](https://github.com/asingh403/Apr2022POM): A test automation project using Selenium WebDriver and Java to automate web UI testing scenarios for an e-commerce application.
 - [API Test Automation](https://github.com/asingh403/API-POM-NOV21): A test automation project using RestAssured and Java to automate API's.
 
-## Open Source Contributions
-- [Cypress](https://github.com/cypress-io/cypress/pulls?q=is%3Apr+author%3Aasingh403): Contributed to Cypress by adding new test cases and improving documentation.
-
 ## Blog Posts or Articles
 - [Effective Test Automation Strategies](https://dev.to/asingh403/effective-test-automation-strategies-45i2): In this article, I share effective strategies for successful test automation implementation and maintenance.
 
@@ -67,6 +61,3 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 - LinkedIn: [asingh403](https://www.linkedin.com/in/asingh403/)
 - Twitter: [@as_tech2](https://twitter.com/as_tech2)
 - Email: asingh.it@hotmail.com
-
-I'm always interested in collaborating on automation projects or discussing testing strategies. Feel free to connect with me through any of the mentioned channels. Let's automate and ensure the quality of software together!
-
