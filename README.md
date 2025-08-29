@@ -28,9 +28,7 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 </table>
 
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asingh403&" alt="asingh403" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asingh403" alt="asingh403" /></p>
 
 <table style="border-collapse: collapse; width: 90%; border: none;">
       <h3>Developer's Dashboard:</h3>
