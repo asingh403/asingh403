@@ -29,7 +29,9 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 
 
 <p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=asingh403" alt="asingh403" style="width: 700px;" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=asingh403&bg_color=white&color=000000" alt="asingh403" style="border: 1px solid #ddd; width: 735px;" /></p>
+<table><tr><td>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=asingh403&bg_color=white&color=000000" alt="asingh403" style="border: 1px solid #ddd; width: 735px;" />
+</td></tr></table>
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asingh403" alt="asingh403" /></p> -->
