@@ -42,7 +42,7 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 <table style="border-collapse: collapse; width: 90%; border: none;">
       <h3>Developer's Dashboard:</h3>
 <!--   <tr> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asingh403&theme=github" style="width:80%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asingh403&theme=github" style="width:100%">
 <!--     </td> -->
 <!--   </tr> -->
 </table>
