@@ -1,72 +1,114 @@
-# Hi, I'm Ashutosh Singh! 👋
-![](https://komarev.com/ghpvc/?username=asingh403)
+<div align="center">
 
-I'm an automation tester with a passion for ensuring the quality and reliability of software applications. I enjoy automating repetitive tasks, designing efficient test frameworks, and working closely with development teams to deliver high-quality products. Here are a few highlights about me:
+# Hi, I'm Ashutosh Singh 👋
 
-- 🔭 I’m currently working on developing automated test suites using Selenium and RestAssured for a web application and APIs.
-- 💻 I have experience with test automation frameworks such as Selenium WebDriver, and RestAssured API Testing.
+### I break software before your users do.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/as_tech2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="as_tech2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asingh403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asingh403/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8082755/ashutosh-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8082755/ashutosh-singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/asingh_43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/asingh_43/" height="30" width="40" /></a>
-</p>
+**QA Architect** · Playwright · Selenium · CI/CD · Bangalore, IN
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asingh403/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asingh.it@hotmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/asingh403)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8082755/ashutosh-singh)
 
-----------
-### 📊 GitHub Stats & 🌱 Top Languages:
+🟢 **Open to consulting & full-time** · 📍 Bangalore, India
 
-<table width="800px">
-  <tr>
-    <td width="400px"><img src="https://github-readme-stats.vercel.app/api?username=asingh403&show_icons=true&theme=greywhite" alt="asingh403's GitHub stats"></td>
-    <td width="300px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asingh403&layout=compact&theme=greywhite" alt="asingh403's Top Languages"></td>
-  </tr>
-</table>
+![Profile views](https://komarev.com/ghpvc/?username=asingh403&style=flat-square&color=2F80ED&label=Profile+views)
 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=asingh403" alt="asingh403" style="width: 700px;" /></p>
-<table><tr><td>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=asingh403&bg_color=white&color=000000" alt="asingh403" style="border: 1px solid #ddd; width: 681px;" />
-</td></tr></table>
+---
 
+## 👋 About
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asingh403" alt="asingh403" /></p> -->
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=asingh403" alt="asingh403" /></p>  -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asingh403" alt="asingh403" /></p> -->
-<!-- Responsible to create a streak graph-->
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=asingh403" alt="asingh403" /></p> -->
+I help engineering teams **stop shipping broken software without slowing down releases.**
 
+For ~15 years I've built test automation frameworks, hunted flaky tests, and wired QA into CI/CD pipelines so bugs die in PRs — not in production. Now moving into **consulting and test architecture** for startups and scale-ups that can't afford a full QA team but can't afford to skip quality either.
 
-<table style="border-collapse: collapse; width: 90%; border: none;">
-      <h3>Developer's Dashboard:</h3>
-<!--   <tr> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asingh403&theme=github" style="width:85%">
-<!--     </td> -->
-<!--   </tr> -->
-</table>
+**What that means in practice:**
 
-## Tech Stack
-- Selenium WebDriver
-- RestAssured
-- Postman
-- Java
-- JavaScripts
-- TestNG
-- JUnit
+- 🏗️ &nbsp; Test frameworks that juniors can extend and seniors respect
+- 🔬 &nbsp; Flaky-test reduction so CI tells you something useful
+- 🚀 &nbsp; Pipeline integration — feedback in &lt; 10 min, not overnight
+- 📐 &nbsp; System-level thinking: locators, waits, retries, parallelism, observability
 
-## Projects
-- [Web UI Test Automation](https://github.com/asingh403/Apr2022POM): A test automation project using Selenium WebDriver and Java to automate web UI testing scenarios for an e-commerce application.
-- [API Test Automation](https://github.com/asingh403/API-POM-NOV21): A test automation project using RestAssured and Java to automate API's.
+---
 
-## Blog Posts or Articles
-- [Effective Test Automation Strategies](https://dev.to/asingh403/effective-test-automation-strategies-45i2): In this article, I share effective strategies for successful test automation implementation and maintenance.
+## 🛠️ Stack
 
-## Social Media and Contact
+**Automation & Testing** &nbsp;·&nbsp; Playwright · Selenium WebDriver · RestAssured · Postman · TestNG · JUnit 5
 
-- LinkedIn: [asingh403](https://www.linkedin.com/in/asingh403/)
-- Twitter: [@as_tech2](https://twitter.com/as_tech2)
-- Email: asingh.it@hotmail.com
+**Languages** &nbsp;·&nbsp; Java · TypeScript · JavaScript
+
+**CI/CD & DevOps** &nbsp;·&nbsp; GitHub Actions · Jenkins · Docker · Maven
+
+**Data & APIs** &nbsp;·&nbsp; PostgreSQL · REST · JSON Schema
+
+**Currently leveling up** &nbsp;·&nbsp; Kubernetes · Terraform · Observability tooling
+
+---
+
+## 🚀 Featured Work
+
+### 🎭 [Web UI Test Automation — POM](https://github.com/asingh403/Apr2022POM)
+Selenium + Java framework following Page Object Model. E-commerce flows: login, search, cart, checkout.
+**Stack:** `Selenium` `Java` `TestNG` `Maven`
+**Demonstrates:** clean separation of concerns, reusable locators, data-driven test structure.
+
+### 🔌 [API Test Automation](https://github.com/asingh403/API-POM-NOV21)
+RestAssured framework for REST API validation — status codes, JSON schema, auth flows, chained requests.
+**Stack:** `RestAssured` `Java` `TestNG` `JSON Schema`
+**Demonstrates:** request chaining, response assertions, contract-style API checks.
+
+> 💡 **Currently building:** **OpenClaw** — WhatsApp → Claude → GitHub Actions bridge. Trigger test runs via natural language. *(Repo link coming soon.)*
+
+<!-- When ready, add:
+### 🎯 Playwright + TypeScript Framework
+### 📉 Flakiness Reduction Case Study (with before/after metrics)
+-->
+
+---
+
+## ✍️ Writing
+
+- 📝 [Effective Test Automation Strategies](https://dev.to/asingh403/effective-test-automation-strategies-45i2) — patterns that survived contact with real codebases.
+
+*In the pipeline: flaky test triage · Playwright locator strategy · when NOT to automate.*
+
+---
+
+## 🧭 What I'm looking for
+
+| ✅ Yes to | ❌ Politely pass on |
+|---|---|
+| Consulting: Playwright / Selenium framework setup | Pure manual QA roles |
+| Fractional QA architect for early-stage startups | "Test everything" with no strategy |
+| CI/CD integration & flakiness reduction gigs | Scripting without ownership of outcomes |
+| Mentoring & team upskilling | Ticket-factory body-shop work |
+
+---
+
+<div align="center">
+
+### 📬 Let's talk
+
+If your test suite is **flaky, slow, or scary to touch** — reach out.
+
+[**LinkedIn DM**](https://www.linkedin.com/in/asingh403/) &nbsp;·&nbsp; [**asingh.it@hotmail.com**](mailto:asingh.it@hotmail.com)
+
+<br/>
+
+<details>
+<summary>📊 GitHub activity (click to expand)</summary>
+<br/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=asingh403&show_icons=true&theme=default&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asingh403&layout=compact&theme=default&hide_border=true" />
+<br/><br/>
+<img height="150" src="https://streak-stats.demolab.com?user=asingh403&theme=default&hide_border=true" />
+</details>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asingh403&bg_color=ffffff&color=2F80ED&line=2F80ED&point=000000&area=true&hide_border=true" width="100%" />
+
+</div>
