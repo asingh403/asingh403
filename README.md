@@ -23,7 +23,7 @@
 
 I help engineering teams **stop shipping broken software without slowing down releases.**
 
-For ~15 years I've built test automation frameworks, hunted flaky tests, and wired QA into CI/CD pipelines so bugs die in PRs — not in production. Now moving into **consulting and test architecture** for startups and scale-ups that can't afford a full QA team but can't afford to skip quality either.
+For ~9 years I've built test automation frameworks, hunted flaky tests, and wired QA into CI/CD pipelines so bugs die in PRs — not in production. Now moving into **consulting and test architecture** for startups and scale-ups that can't afford a full QA team but can't afford to skip quality either.
 
 **What that means in practice:**
 
@@ -98,14 +98,14 @@ If your test suite is **flaky, slow, or scary to touch** — reach out.
 
 <br/>
 
-<details>
-<summary>📊 GitHub activity (click to expand)</summary>
-<br/>
+### 📊 GitHub activity
+
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=asingh403&show_icons=true&theme=default&hide_border=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asingh403&layout=compact&theme=default&hide_border=true" />
+
 <br/><br/>
+
 <img height="150" src="https://streak-stats.demolab.com?user=asingh403&theme=default&hide_border=true" />
-</details>
 
 <br/>
 
