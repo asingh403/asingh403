@@ -23,7 +23,7 @@
 
 I help engineering teams **stop shipping broken software without slowing down releases.**
 
-For ~9 years I've built test automation frameworks, hunted flaky tests, and wired QA into CI/CD pipelines so bugs die in PRs — not in production. Now moving into **consulting and test architecture** for startups and scale-ups that can't afford a full QA team but can't afford to skip quality either.
+For ~15 years I've built test automation frameworks, hunted flaky tests, and wired QA into CI/CD pipelines so bugs die in PRs — not in production. Now moving into **consulting and test architecture** for startups and scale-ups that can't afford a full QA team but can't afford to skip quality either.
 
 **What that means in practice:**
 
