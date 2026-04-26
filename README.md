@@ -105,10 +105,12 @@ If your test suite is **flaky, slow, or scary to touch** — reach out.
 
 <br/><br/>
 
-<img height="150" src="https://streak-stats.demolab.com?user=asingh403&theme=default&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=asingh403&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asingh403&bg_color=ffffff&color=2F80ED&line=2F80ED&point=000000&area=true&hide_border=true" width="100%" />
+
+<sub>Streak counter is computed in UTC by the upstream service and may lag IST by up to ~5.5 hours after late-night commits.</sub>
 
 </div>
