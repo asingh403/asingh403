@@ -1,0 +1,19 @@
+name: Refresh streak
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 6:30 AM IST daily
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Bust cache
+        run: |
+          DATE=$(date +%Y%m%d)
+          sed -i "s/cachebust=[0-9]*/cachebust=$DATE/" README.md
+      - run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add README.md
+          git commit -m "chore: refresh streak cache" || echo "No changes"
+          git push
