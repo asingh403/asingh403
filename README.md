@@ -105,7 +105,7 @@ If your test suite is **flaky, slow, or scary to touch** — reach out.
 
 <br/><br/>
 
-<img height="150" src="https://streak-stats.demolab.com?user=asingh403&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" />
+<img height="150" src="https://streak-stats.demolab.com?user=asingh403&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2&cachebust=20260428" />
 
 <br/>
 
