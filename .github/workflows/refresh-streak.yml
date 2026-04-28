@@ -1,7 +1,8 @@
 name: Refresh streak
 on:
   schedule:
-    - cron: '0 1 * * *'  # 6:30 AM IST daily
+    - cron: '0 1 * * *'
+  workflow_dispatch:
 jobs:
   update:
     runs-on: ubuntu-latest
